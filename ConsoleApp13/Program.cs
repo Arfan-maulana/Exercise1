@@ -40,7 +40,7 @@ namespace ConsoleApp13
         public void display()
         {
             Console.WriteLine("");
-            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine("-----------------------------------------------");
             Console.WriteLine(" Element array yang tersusun");
             Console.WriteLine("----------------------------------------------");
             for (int mm = 0; mm < n; mm++)
